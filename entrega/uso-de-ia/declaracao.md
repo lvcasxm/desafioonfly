@@ -16,7 +16,6 @@ A exportação da sessão está em `sessao.md` nesta pasta.
 
 ## O que eu fiz
 
-<!-- Preencha com a sua participação, por exemplo: -->
-- Defini a tarefa e conduzi a sessão.
-- _(revisão das correções, validação local, decisões tomadas, ajustes feitos no texto etc.)_
-- Publiquei o repositório e enviei o link.
+- Defini a tarefa e conduzi a sessão com o assistente.
+- Revisei cada uma das cinco correções, conferindo a alteração no código contra a regra correspondente do README.
+- Criei o repositório público no GitHub, organizei os arquivos para a entrega e enviei o link.
